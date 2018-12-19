@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/iamges">
+        <file>image/background.jpg</file>
+        <file>image/black.jpg</file>
+        <file>image/red.jpg</file>
+        <file>image/snake.jpg</file>
+        <file>image/yellow.jpg</file>
+        <file>image/brown.jpg</file>
+        <file>image/nothing.jpg</file>
+        <file>image/mmexport1544885017272.jpg</file>
+        <file>image/finger.jpg</file>
+    </qresource>
+</RCC>
